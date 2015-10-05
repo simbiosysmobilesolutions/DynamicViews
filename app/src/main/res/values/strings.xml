@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">DynamicViews</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_view">ListView</string>
+    <string name="title_activity_grid_view">GridView</string>
+    <string name="title_activity_spinner">Spinner</string>
+    <string name="title_activity_recycler">Recycler</string>
+    <string-array name="names">
+        <item>John</item>
+
+        <item>George</item>
+        <item>Linda</item>
+        <item>Tracy</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>CEO</item>
+
+        <item>Manager</item>
+        <item>HR</item>
+        <item>Accountant</item>
+    </string-array>
+    <string-array name="image_ids">
+        <item>@drawable/flower1</item>
+        <item>@drawable/flower2</item>
+        <item>@drawable/flower3</item>
+        <item>@drawable/flower4</item>
+        <item>@drawable/flower5</item>
+        <item>@drawable/flower6</item>
+        <item>@drawable/flower7</item>
+        <item>@drawable/flower8</item>
+        <item>@drawable/flower9</item>
+        <item>@drawable/flower1</item>
+        <item>@drawable/flower2</item>
+        <item>@drawable/flower3</item>
+        <item>@drawable/flower4</item>
+        <item>@drawable/flower5</item>
+        <item>@drawable/flower6</item>
+        <item>@drawable/flower7</item>
+        <item>@drawable/flower8</item>
+        <item>@drawable/flower9</item>
+        <item>@drawable/flower1</item>
+        <item>@drawable/flower2</item>
+        <item>@drawable/flower3</item>
+        <item>@drawable/flower4</item>
+        <item>@drawable/flower5</item>
+        <item>@drawable/flower6</item>
+        <item>@drawable/flower7</item>
+        <item>@drawable/flower8</item>
+        <item>@drawable/flower9</item>
+    </string-array>
+    <string-array name="days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+
+    </string-array>
+</resources>
